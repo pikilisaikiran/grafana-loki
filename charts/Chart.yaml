@@ -1,0 +1,10 @@
+apiVersion: "v2"
+name: loki
+description: Helm Chart for Grafana Loki, a horizontally-scalable, highly-available log aggregation system inspired by Prometheus.
+type: application
+version: 0.0.1
+appVersion: 3.4.2
+dependencies:
+  - name: loki
+    version: 6.27.0
+    repository: https://grafana.github.io/helm-charts
