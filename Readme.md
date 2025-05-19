@@ -1,11 +1,11 @@
-## How to Generate Kubernetes Manifests from the Helm Chart
+## Generate Kubernetes Manifests from the Helm Chart
 
 1. **Clone the Repository**
 
    Clone the repository to your local machine:
 
    ```bash
-   git clone <github_link>
+   git clone https://github.com/pikilisaikiran/grafana-loki.git
    ```
 
 2. **Navigate to the Charts Directory**
